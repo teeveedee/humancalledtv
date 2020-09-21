@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/humancalledtv/static/css/main.673adc78.chunk.css",
+    "main.js": "/humancalledtv/static/js/main.e9a13094.chunk.js",
+    "main.js.map": "/humancalledtv/static/js/main.e9a13094.chunk.js.map",
+    "runtime-main.js": "/humancalledtv/static/js/runtime-main.9e2e4e1a.js",
+    "runtime-main.js.map": "/humancalledtv/static/js/runtime-main.9e2e4e1a.js.map",
+    "static/js/2.aff27a60.chunk.js": "/humancalledtv/static/js/2.aff27a60.chunk.js",
+    "static/js/2.aff27a60.chunk.js.map": "/humancalledtv/static/js/2.aff27a60.chunk.js.map",
+    "index.html": "/humancalledtv/index.html",
+    "precache-manifest.d4dee0334a96c35b25d5083d25a149c1.js": "/humancalledtv/precache-manifest.d4dee0334a96c35b25d5083d25a149c1.js",
+    "service-worker.js": "/humancalledtv/service-worker.js",
+    "static/css/main.673adc78.chunk.css.map": "/humancalledtv/static/css/main.673adc78.chunk.css.map",
+    "static/js/2.aff27a60.chunk.js.LICENSE.txt": "/humancalledtv/static/js/2.aff27a60.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e2e4e1a.js",
+    "static/js/2.aff27a60.chunk.js",
+    "static/css/main.673adc78.chunk.css",
+    "static/js/main.e9a13094.chunk.js"
+  ]
+}
