@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/humancalledtv/precache-manifest.d4dee0334a96c35b25d5083d25a149c1.js"
+  "/humancalledtv/precache-manifest.3377f12706ac3c8e7b070264dc7c1897.js"
 );
 
 self.addEventListener('message', (event) => {
